@@ -10,7 +10,7 @@ This mobile app was created as part of a mini thesis course for university using
 if you would like to try the app, you need to build it by yourself on your local machine.
 
 
-#Screenshots
+## Screenshots
 
 ![Bez nazwy2](https://user-images.githubusercontent.com/94826253/221698631-afb9bebf-22f4-4079-b98c-0a237d70f413.jpg)
 ![2](https://user-images.githubusercontent.com/94826253/221698719-df0b0ff7-cfcb-4f10-9e8c-557984156e79.jpg)
