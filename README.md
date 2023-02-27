@@ -12,5 +12,5 @@ if you would like to try the app, you need to build it by yourself on your local
 
 #Screenshots
 
-![Bez nazwy](https://user-images.githubusercontent.com/94826253/221698352-178889db-e105-4761-9077-d481ef163afd.jpg)
+![Bez nazwy2](https://user-images.githubusercontent.com/94826253/221698631-afb9bebf-22f4-4079-b98c-0a237d70f413.jpg)
 ![2](https://user-images.githubusercontent.com/94826253/221698356-136b1bec-c79d-49fb-8a07-d6ae41551273.jpg)
